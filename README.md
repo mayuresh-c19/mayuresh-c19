@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayuresh-c19" alt="mayuresh-c19" /></a> </p>
 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">Leetcode Info</h2>
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mayureshc19?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
